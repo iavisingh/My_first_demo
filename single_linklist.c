@@ -5,7 +5,7 @@ struct node{
 	int data;
 	struct node *next;
 };
-// decleration of funtion 
+// decleration funtion 
 void insertAtEnd(struct node**,int);
 void display(struct node*);
 void insertAtBeg(struct node **,int);
